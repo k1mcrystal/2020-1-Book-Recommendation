@@ -1,5 +1,5 @@
 # 2020-1-Book-Recommendation
-> YBIGTA 2020-1 conference project
+> YBIGTA 2020-1 conference project <br/>
 > 각 도서의 내용을 대표하는 키워드를 기반으로 하는 도서 추천시스템 구현
 
 members: 김수정, 김용우, 노시영, 박솔희, 박준민
