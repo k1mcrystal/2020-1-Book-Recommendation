@@ -12,10 +12,10 @@ members: 김수정, 김용우, 노시영, 박솔희, 박준민
 - 선택한 책과 비슷한 내용의 책을 추천해주는 모델 구현 목표
 
 **2. 프로젝트 진행 단계**
-1단계) Crawling
+1) Crawling
 - Request와 Beautiful Soup 활용
 - yes24 도서 약 40,000권의 '책 제목', '책 소개', '작가' 정보 크롤링
-2단계) Tokenize
+2) Tokenize
 - KoNLPy 활용
 - 데이터 tokenize & 품사 tagging
 - 문장에서 가장 많은 의미를 차지하고 있고 키워드로 활용하기 좋은 명사, 형용사만 사용하기로 결정
